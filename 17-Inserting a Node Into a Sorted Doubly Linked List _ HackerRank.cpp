@@ -32,6 +32,5 @@ DoublyLinkedListNode* sortedInsert(DoublyLinkedListNode* llist, int data) {
         temp->prev=ele; 
         ele->next=temp; 
     }
-    cout<<llist->data;
     return llist;
 }

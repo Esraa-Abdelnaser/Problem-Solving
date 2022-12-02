@@ -19,5 +19,4 @@ bool compare_lists(SinglyLinkedListNode* head1, SinglyLinkedListNode* head2) {
     }
     
     return chk;
-
 }
